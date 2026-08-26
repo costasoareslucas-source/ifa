@@ -1,0 +1,16 @@
+html, body {
+  background:rgb(150,80,110);
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+h1{
+  color:rgb(200,150,100);
+  text-align:center;
+}
+img{
+  width:45%;
+  margin-top:15%
+}
